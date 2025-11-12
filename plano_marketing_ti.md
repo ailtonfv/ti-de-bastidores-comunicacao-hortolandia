@@ -245,13 +245,129 @@ Entre as iniciativas sugeridas:
 
 ## 5. Acordos de Nível de Serviço (SLA)
 
-*(a preencher no Passo 5)*
+Os **Acordos de Nível de Serviço (SLA)** estabelecem os parâmetros de qualidade, tempo de resposta e responsabilidade nos atendimentos realizados pela Diretoria de Tecnologia da Informação (DITI).  
+Eles asseguram **transparência, previsibilidade e equidade** no suporte prestado a todas as secretarias municipais.
+
+Este item adota como referência conceitual o framework **ITIL (Information Technology Infrastructure Library)**, reconhecido mundialmente como padrão para gestão de serviços de TI no setor público e privado.  
+Sua aplicação fortalece a padronização, reduz falhas de comunicação e cria uma cultura de **melhoria contínua**.
+
+---
+
+### 🧭 Princípios dos Acordos de Nível de Serviço
+
+1. **Clareza:** cada serviço deve ter uma meta de desempenho mensurável.  
+2. **Compromisso mútuo:** o SLA é um acordo entre a DITI e as secretarias usuárias.  
+3. **Transparência:** resultados e métricas devem ser publicados periodicamente.  
+4. **Evolução:** metas podem ser revistas conforme indicadores e maturidade operacional aumentem.  
+5. **Aderência ao ITIL:** adoção gradual dos processos de *Incident Management*, *Problem Management* e *Service Request Management*.
+
+---
+
+### ⚙️ Estrutura Operacional do SLA
+
+| Nível de Serviço | Descrição | Prazo Máximo | Canal de Solicitação | Prioridade |
+|------------------|------------|---------------|----------------------|-------------|
+| **Nível 1 – Incidentes** | Problemas pontuais em equipamentos, rede ou sistemas. | até 8h úteis | Ramal 5433 / E-mail | Alta |
+| **Nível 2 – Solicitações de Serviço** | Instalação de software, criação de contas, permissões ou configurações. | até 16h úteis | Sistema DOCS / E-mail | Média |
+| **Nível 3 – Projetos e Melhorias** | Implementações, upgrades e integrações sistêmicas. | conforme cronograma do projeto | Sistema DOCS | Planejada |
+
+---
+
+### 📊 Indicadores de Desempenho (KPIs)
+
+| Indicador | Fórmula | Meta Inicial | Frequência |
+|------------|----------|---------------|-------------|
+| **Cumprimento de SLA** | % de chamados resolvidos dentro do prazo | ≥ 90% | Mensal |
+| **Taxa de Reincidência de Incidentes** | Nº de incidentes repetidos / total de incidentes | ≤ 10% | Trimestral |
+| **Tempo Médio de Resolução (TMR)** | Tempo total de resolução / nº de chamados | ≤ 12h úteis | Mensal |
+| **Satisfação do Usuário Interno** | Avaliação pós-atendimento | ≥ 85% | Trimestral |
+
+---
+
+### 🧩 Adoção Gradual do ITIL
+
+A DITI iniciará a adoção prática das boas práticas do **ITIL v4**, priorizando três processos fundamentais:
+
+1. **Gestão de Incidentes:** garantir resposta rápida, registro e categorização de ocorrências.  
+2. **Gestão de Problemas:** identificar causas-raiz e prevenir reincidências.  
+3. **Gestão de Requisições de Serviço:** padronizar solicitações e fluxos de aprovação via DOCS.  
+
+A médio prazo, a equipe técnica deverá participar de **capacitações introdutórias em ITIL Foundation**, com o objetivo de consolidar uma linguagem comum de gestão de serviços.
+
+> 📘 *O ITIL não é um manual de regras, mas um modelo de maturidade.  
+> Sua adoção progressiva permitirá que a DITI avance do suporte corretivo para a gestão proativa e estratégica dos serviços públicos de TI.*
+
+---
+
+### 🧠 Próximos Passos
+
+- Formalizar o **Catálogo de Serviços** com prazos e responsáveis.  
+- Implementar a **planilha de indicadores SLA** vinculada a este repositório.  
+- Programar **treinamento introdutório em ITIL Foundation** para toda a equipe técnica.  
+- Revisar o SLA a cada semestre, integrando-o ao **PDTI** e aos **relatórios de governança digital**.
+
 
 ---
 
 ## 6. Governança e Ciclo de Melhoria Contínua
 
-*(a preencher no Passo 6)*
+A **governança de TI** é o eixo estruturante da DITI.  
+Seu propósito é assegurar que as decisões sobre tecnologia, comunicação e suporte estejam alinhadas às prioridades institucionais da Prefeitura e às boas práticas de administração pública digital.
+
+A implantação deste Plano de Marketing Institucional está vinculada a um **ciclo de melhoria contínua**, que combina planejamento, execução, monitoramento e ajuste — garantindo que o documento evolua junto com as demandas da cidade e da gestão.
+
+---
+
+### 🔁 Estrutura de Governança
+
+| Elemento | Finalidade | Periodicidade | Responsável |
+|-----------|-------------|----------------|--------------|
+| **Comitê de Governança de TI** | Revisar políticas, catálogos e SLAs. | Trimestral | Diretor da DITI + SEPLAN |
+| **Relatório de Desempenho Operacional** | Consolidar indicadores de atendimento e infraestrutura. | Bimestral | Coordenação Técnica da DITI |
+| **Reunião de Análise Crítica** | Avaliar incidentes, gargalos e sugestões de melhoria. | Mensal | DITI + Gestores de Secretarias |
+| **Auditoria Técnica Interna** | Verificar aderência a padrões e controles. | Semestral | Equipe designada pela SEPLAN |
+| **Revisão Geral do Plano** | Atualizar o conteúdo do presente documento. | Anual | DITI (com apoio do DIAE, se necessário) |
+
+---
+
+### 📈 Ciclo de Melhoria Contínua
+
+1. **Planejar:** definir prioridades e objetivos de TI com base nas necessidades das secretarias e diretrizes do PDTI.  
+2. **Executar:** implementar serviços, comunicações e ações de suporte conforme o Catálogo e os SLAs.  
+3. **Monitorar:** medir desempenho por meio de indicadores de tempo de resposta, satisfação e incidentes resolvidos.  
+4. **Agir:** revisar políticas e procedimentos com base nas análises e nos relatórios de desempenho.
+
+Este ciclo segue o modelo **PDCA (Plan, Do, Check, Act)**, aplicado à gestão pública digital e adaptado à realidade municipal.
+
+---
+
+### 🧩 Integração com Outros Instrumentos de Gestão
+
+O presente plano se integra a outros documentos e políticas da Prefeitura de Hortolândia, formando uma arquitetura institucional coesa:
+
+- **PDTI (Plano Diretor de Tecnologia da Informação):** define diretrizes estratégicas de longo prazo.  
+- **Política de Segurança da Informação:** regula acesso, sigilo e proteção de dados.  
+- **Plano de Transformação Digital:** articula inovação, interoperabilidade e uso ético da IA.  
+- **Relatórios de Governança e Transparência:** divulgam indicadores e resultados à sociedade.
+
+---
+
+### 📊 Indicadores de Maturidade
+
+A evolução da DITI será acompanhada por meio de indicadores de maturidade institucional, como:
+
+| Indicador | Métrica | Meta Anual |
+|------------|----------|------------|
+| **Cumprimento do SLA** | % de chamados resolvidos dentro do prazo | ≥ 90% |
+| **Satisfação dos Usuários Internos** | Avaliação pós-atendimento | ≥ 85% |
+| **Disponibilidade dos Sistemas Críticos** | Tempo médio de uptime | ≥ 98% |
+| **Cumprimento do Plano de Comunicação** | Entregas semanais e quinzenais publicadas | 100% |
+| **Capacitação Interna** | % de servidores da DITI com treinamentos atualizados | ≥ 80% |
+
+---
+
+> 📘 *A governança é o que transforma boas intenções em resultados concretos.  
+> Este plano será tão forte quanto sua capacidade de ser revisado, mensurado e aprimorado.*
 
 ---
 
