@@ -20,7 +20,7 @@ Seu objetivo é dar **visibilidade às ações, projetos e instrumentos de gover
 A organização segue o padrão **Ano → Tipo → Documento**, com separação clara entre governança técnica, comunicação institucional e gestão documental.
 
 
-'''ti-de-bastidores-comunicacao-hortolandia/
+""" ti-de-bastidores-comunicacao-hortolandia/
 ├── calendário-de-publicações/
 │ └── 2025/
 ├── cartazes/
