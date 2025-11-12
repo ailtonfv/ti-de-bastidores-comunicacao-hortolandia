@@ -11,7 +11,7 @@ Seu objetivo é dar visibilidade às ações, projetos e instrumentos de governa
 - **Educar** secretarias e servidores sobre boas práticas no uso de recursos tecnológicos.  
 - **Fortalecer** a imagem institucional da TI como área estratégica do município.  
 - **Alinhar** as comunicações internas e externas ao Planejamento Estratégico e à **LGPD**.  
-- **Promover** a transparência e a rastreabilidade documental por meio do GitHub.
+- **Promover** a transparência e a rastreabilidade documental por meio do **GitHub**.
 
 ---
 
@@ -41,8 +41,10 @@ Copiar código
 
 ## 🧾 Padrão para Memorandos Internos (MI)
 
-Os memorandos seguem a convenção **MI-AAAA-XXX-titulo-kebab-case.md**  
-> Exemplo: `MI-2025-001-politica-uso-da-rede.md`
+Os memorandos seguem a convenção:  
+**`MI-AAAA-XXX-titulo-kebab-case.md`**
+
+> **Exemplo:** `MI-2025-001-politica-uso-da-rede.md`
 
 **Metadados obrigatórios (em formato YAML no topo do arquivo):**
 
@@ -69,5 +71,14 @@ Publicação	Responsável pelo Plano de Comunicação
 🧠 Guia de Identidade Visual de TI (em desenvolvimento)
 
 🔒 Política Municipal de LGPD e Segurança da Informação (linkar quando disponível)
+
+📞 Contato
+Departamento de Infraestrutura de TI (DITI)
+Prefeitura Municipal de Hortolândia
+📧 suporte@hortolandia.sp.gov.br — ☎ Ramal 5433
+
+
+
+
 
 
