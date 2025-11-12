@@ -20,7 +20,7 @@
 
 ---
 
-## 1. Apresentação
+## 1. Introdução
 
 O presente **Plano de Marketing Institucional da DITI** tem por objetivo consolidar a comunicação técnica e institucional da área de Tecnologia da Informação da Prefeitura de Hortolândia, fortalecendo a visibilidade, a previsibilidade e a integração com as demais Secretarias Municipais.
 
