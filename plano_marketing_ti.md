@@ -43,7 +43,36 @@ O DADOS encerra, portanto, sua participação direta neste processo após a apro
 
 ## 2. Identidade Institucional
 
-*(a preencher no Passo 2)*
+A **Diretoria de Tecnologia da Informação (DITI)** é o órgão responsável por planejar, executar e sustentar a infraestrutura tecnológica da Prefeitura de Hortolândia, assegurando a continuidade dos serviços digitais e o suporte às políticas públicas municipais.
+
+Sua missão é prover soluções tecnológicas seguras, eficientes e integradas, que ampliem a capacidade operacional do governo municipal e promovam a transformação digital do setor público.  
+
+A DITI atua como **elo técnico entre as secretarias**, viabilizando sistemas corporativos, suporte técnico, redes, armazenamento e gestão de acessos. É também responsável por garantir a **resiliência cibernética**, o **cumprimento das normas de segurança da informação** e a **adoção de padrões abertos e interoperáveis**.
+
+### 💡 Visão
+
+Ser referência em infraestrutura tecnológica pública na Região Metropolitana de Campinas, reconhecida pela confiabilidade, inovação e eficiência na entrega de serviços digitais ao cidadão.
+
+### ⚙️ Missão
+
+Garantir a disponibilidade, a segurança e a evolução contínua dos serviços de tecnologia da Prefeitura de Hortolândia, promovendo a integração digital entre as secretarias e fortalecendo a gestão pública baseada em dados.
+
+### 🌐 Valores
+
+- **Transparência:** uso ético e responsável da tecnologia pública.  
+- **Confiabilidade:** estabilidade e segurança nos serviços prestados.  
+- **Colaboração:** integração entre áreas técnicas e setoriais.  
+- **Inovação:** adoção de práticas modernas, abertas e sustentáveis.  
+- **Governança:** alinhamento às boas práticas de TI e à Lei Geral de Proteção de Dados (LGPD).
+
+
+Os trabalhos entregues pelo DITI deve refletem **autoridade técnica, clareza e senso público**.  
+Cada material de comunicação — digital ou impresso — deve reforçar a ideia de que **a TI municipal é um ativo estratégico**, e não apenas um suporte técnico.  
+
+A marca DITI está associada a três pilares:  
+1. **Eficiência operacional**,  
+2. **Segurança e confiabilidade**,  
+3. **Inovação com propósito público.**
 
 ---
 
