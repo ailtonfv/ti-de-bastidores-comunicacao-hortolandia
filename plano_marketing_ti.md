@@ -1,16 +1,16 @@
-# 🛰️ Plano de Marketing Institucional da DITI — Prefeitura de Hortolândia
+ # 🛰️ Plano de Marketing Institucional da DITI — Prefeitura de Hortolândia
 
 **Versão:** 1.0  
 **Data:** Novembro de 2025  
 **Responsável pela coordenação inicial:** Departamento de Dados e Estatística (DADOS)  
 **Departamento executor:** Departamento de Infraestrutura de TI (DITI)  
-**Repositório oficial inicial:** [github.com/ailtonfv/ti-de-bastidores-comunicacao-hortolandia](https://github.com/ailtonfv/ti-de-bastidores-comunicacao-hortolandia)
+**Repositório oficial:** [github.com/ailtonfv/ti-de-bastidores-comunicacao-hortolandia](https://github.com/ailtonfv/ti-de-bastidores-comunicacao-hortolandia)
 
 ---
 
 ## 📘 Sumário
 
-1. 1. [t.](#1-apresentação)
+1. [Apresentação](#1-apresentação)  
 2. [Identidade Institucional](#2-identidade-institucional)  
 3. [Catálogo Municipal de Serviços de TI](#3-catálogo-municipal-de-serviços-de-ti)  
 4. [Comunicação e Engajamento Institucional](#4-comunicação-e-engajamento-institucional)  
@@ -31,13 +31,13 @@ Não serão aceitas comunicações por e-mail, garantindo assim rastreabilidade 
 
 ---
 
-### 📎 Encerramento da participação do DIAE
+### 📎 Encerramento da participação do DADOS
 
 Após a fase inicial de estruturação e validação, conduzida pelo **Departamento de Dados e Estatística (DADOS)**, a coordenação e a execução deste Plano de Marketing passam a ser de **responsabilidade integral do Departamento de Infraestrutura de TI (DITI)**.  
 
 Cabe ao DITI a manutenção, atualização e implantação contínua das ações previstas, bem como o monitoramento dos resultados e o registro das atualizações neste repositório.  
 
-O Departamento de Informação e Análise Estatística encerra, portanto, sua participação direta neste processo após a aprovação do plano, mantendo-se disponível para eventuais consultas técnicas ou recomendações metodológicas que venham a ser solicitadas pelo DITI.
+O DADOS encerra, portanto, sua participação direta neste processo após a aprovação do plano, mantendo-se disponível para eventuais consultas técnicas ou recomendações metodológicas que venham a ser solicitadas pelo DITI.
 
 ---
 
