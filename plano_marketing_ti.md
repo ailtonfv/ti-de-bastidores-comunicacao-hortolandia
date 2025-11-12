@@ -130,7 +130,7 @@ A DITI adota três canais institucionais para receber solicitações, dúvidas e
 ### 📄 Revisão e Atualização
 
 O Catálogo será revisado **trimestralmente**, com base nos indicadores de demanda, desempenho e satisfação das secretarias atendidas.  
-Todas as atualizações deverão ser registradas neste repositório, em nova versão numerada e datada, preservando o histórico documental.
+Todas as atualizações deverão ser registradas neste repositório ou em repositório definido pelo DITI, em nova versão numerada e datada, preservando o histórico documental.
 
 ---
 
