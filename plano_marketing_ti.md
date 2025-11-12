@@ -1,4 +1,4 @@
- # 🛰️ Plano de Marketing Institucional da DITI — Prefeitura de Hortolândia
+# 🛰️ Plano de Marketing Institucional da DITI — Prefeitura de Hortolândia
 
 **Versão:** 1.0  
 **Data:** Novembro de 2025  
