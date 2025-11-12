@@ -136,9 +136,110 @@ Todas as atualizações deverão ser registradas neste repositório ou em reposi
 
 > 📘 *O Catálogo é um instrumento vivo de gestão, que permite ao DITI evoluir de uma função reativa (suporte) para uma função estratégica (governança e inovação tecnológica).*
 
+---
+
 ## 4. Comunicação e Engajamento Institucional
 
-*(a preencher no Passo 4)*
+A **Diretoria de Tecnologia da Informação (DITI)** estabelece, por meio deste plano, uma política clara de comunicação e engajamento institucional.  
+O objetivo é **garantir transparência, previsibilidade e integração** entre a equipe de TI, as demais secretarias e os usuários dos serviços digitais da Prefeitura de Hortolândia.
+
+A comunicação em TI não se restringe à troca de mensagens — ela é um **instrumento de governança e credibilidade técnica**.  
+Por isso, cada ação de divulgação, aviso ou relatório deve reforçar a imagem da DITI como **órgão estratégico, confiável e orientado a resultados**.
+
+---
+
+### 🧭 Princípios da Comunicação Institucional
+
+1. **Clareza e objetividade:** linguagem direta, técnica e livre de jargões desnecessários.  
+2. **Transparência:** informar resultados, prazos e mudanças de forma tempestiva.  
+3. **Padronização visual:** utilização de modelos e identidade visual definidos pela Prefeitura.  
+4. **Rastreabilidade:** todo comunicado deve ter origem documentada (GitHub, DOCS, ou protocolo).  
+5. **Colaboração:** incentivo ao diálogo construtivo entre áreas técnicas e usuários finais.
+
+---
+
+### 🗓️ Ritmo de Comunicação
+
+A DITI adota um ciclo contínuo de comunicação interna e institucional, organizado em três ritmos complementares:
+
+| Frequência | Ferramenta / Canal | Conteúdo | Responsável |
+|-------------|--------------------|-----------|--------------|
+| **Semanal** | Reunião técnica de equipe (presencial ou remota) | Revisão de incidentes, pendências e demandas novas. | Coordenação da DITI |
+| **Quinzenal** | Publicação digital (GitHub / mural interno) | “O que a TI fez por você esta semana” — breve boletim com resultados e entregas. | DITI |
+| **Bimestral** | Apresentação institucional à SEPLAN | Indicadores de desempenho, avanços e próximos projetos. | Diretor da DITI |
+
+---
+
+### 🧰 Canais e Ferramentas de Comunicação
+
+| Canal | Função | Público-alvo | Observações |
+|--------|--------|---------------|-------------|
+| **GitHub – Repositório Oficial** | Documentação viva, versionamento e histórico técnico. | Equipes de TI e gestores | Canal principal de governança documental. |
+| **Sistema DOCS** | Tramitação formal de documentos e memorandos internos. | Diretoria, secretarias e servidores | Deve ser usado para instruções e comunicações oficiais. |
+| **E-mail Institucional** | Comunicação direta e formalizada. | Usuários finais e secretarias | Evitar uso para trocas operacionais repetitivas. |
+| **Mural Digital / Intranet** | Divulgação pública de resultados e informes de interesse geral. | Servidores e gestores municipais | Fortalece a imagem institucional da DITI. |
+
+---
+
+### 💬 Identidade Visual e Linguagem
+
+A comunicação da DITI deve adotar um **tom técnico e institucional**, com ênfase em:  
+- uso consistente da logomarca da Prefeitura;  
+- cores neutras e layout limpo (sem elementos promocionais);  
+- linguagem de credibilidade e foco em resultados;  
+- grafismo minimalista e sem uso de ícones que transmitam informalidade.
+
+Modelos e padrões deverão ser reunidos em um futuro **Guia de Identidade Visual de TI**, vinculado a este plano.
+
+A comunicação da DITI deve adotar um **tom técnico, institucional e acessível**, mantendo coerência com a identidade da Prefeitura de Hortolândia e com as diretrizes gerais de comunicação pública.  
+
+Devem ser evitados elementos promocionais, slogans informais ou ícones que transmitam subjetividade. O foco é **clareza, credibilidade e consistência visual**.
+
+---
+
+#### Exemplos de modelos e padrões recomendados
+
+O futuro **Guia de Identidade Visual de TI**, vinculado a este plano, reunirá um conjunto de modelos e orientações padronizadas para uso interno e externo, incluindo:
+
+| Categoria | Descrição | Formato Sugerido |
+|------------|------------|------------------|
+| **Modelos de Documento Oficial** | Memorandos, instruções normativas, relatórios técnicos e comunicados internos. | `.docx` / `.md` (Markdown padronizado com cabeçalho institucional) |
+| **Cartazes e Banners Digitais** | Avisos de manutenção, campanhas de segurança da informação, novos sistemas, e treinamentos. | `.png` / `.svg` em layout horizontal, formato 16:9 |
+| **Apresentações Institucionais** | Modelos de slides para reuniões, resultados bimestrais e apresentações à SEPLAN. | `.pptx` com cores neutras e tipografia institucional |
+| **Templates para GitHub / Markdown** | Estruturas de README, relatórios e notas técnicas. | `.md` com frontmatter padrão (`# título`, `📅 data`, `✍️ responsável`) |
+| **Assinatura de E-mail Padrão** | Inserção da logomarca oficial e contato institucional. | Texto simples + logotipo (sem uso de fontes decorativas) |
+| **Paleta de Cores** | Base cinza-claro, azul institucional e verde secundário (em harmonia com o brasão municipal). | RGB ou HEX conforme manual gráfico |
+| **Tipografia Recomendada** | Uso de fontes legíveis e neutras para comunicação técnica. | *Open Sans*, *Roboto*, *Arial* |
+
+---
+
+#### Orientações Gerais de Linguagem
+
+- Priorizar **clareza e impessoalidade**.  
+- Evitar siglas técnicas sem explicação.  
+- Manter uniformidade de termos: “usuário”, “solicitação”, “serviço de TI”, “chamado técnico”.  
+- Toda publicação deve indicar **autor, data e fonte** (repositório ou documento de origem).  
+
+---
+
+> 📘 *A padronização visual e textual da DITI cria uma identidade técnica reconhecível —  
+> cada documento, cartaz ou slide deve expressar o mesmo nível de rigor, precisão e confiabilidade.*
+---
+
+### 🌱 Engajamento e Cultura Interna
+
+A DITI adota práticas que valorizam o reconhecimento técnico e o aprendizado contínuo.  
+Entre as iniciativas sugeridas:
+
+- **Reconhecimento mensal** a boas práticas ou soluções inovadoras implementadas pela equipe;  
+- **Capacitações internas rápidas** (20–30 minutos) sobre segurança, sistemas e governança;  
+- **Painel de resultados** atualizado trimestralmente, com indicadores visuais simples;  
+- **Campanhas temáticas**, como *Mês da Cibersegurança* ou *TI Verde*.
+
+---
+
+> 📘 *A comunicação é o reflexo da maturidade institucional.  
+> Quando a DITI comunica bem, ela fortalece a confiança da gestão e do cidadão.*
 
 ---
 
