@@ -76,13 +76,13 @@ A marca DITI está associada a três pilares:
 
 ---
 
-## 3. Catálogo Municipal de Serviços do Departamento de Infraestrutura da Tecnologia da Informação - DITI
+## 3. Catálogo Municipal de Serviços de TI
 
 O **Catálogo Municipal de Serviços de TI** é o instrumento que define, de forma clara e padronizada, todos os serviços oferecidos pela Diretoria de Tecnologia da Informação (DITI) às secretarias e órgãos da Prefeitura de Hortolândia.
 
 Este catálogo tem como objetivos:
 
-- Garantir **transparência** e **previsibilidade** na oferta de serviços de TI;  
+- Garantir **transparência e previsibilidade** na oferta de serviços de TI;  
 - Facilitar o **acesso e a solicitação de suporte técnico**;  
 - Estabelecer **responsabilidades e níveis de atendimento (SLA)**;  
 - Promover a **padronização e a melhoria contínua** da infraestrutura tecnológica municipal.
@@ -99,7 +99,19 @@ Cada serviço é descrito com base em cinco dimensões:
 | **Descrição Técnica** | Breve explicação do que é e como funciona |
 | **Unidade Responsável** | Setor da DITI encarregado pela execução |
 | **Nível de Suporte (SLA)** | Tempo médio de resposta e resolução |
-| **Canal de Solicitação** | Caminho para abertura de chamados ou requisições |
+| **Canal de Solicitação** | Caminho oficial para abertura de chamados |
+
+---
+
+### ☎️ Canais Oficiais de Atendimento
+
+A DITI adota três canais institucionais para receber solicitações, dúvidas e demandas técnicas:
+
+| Canal | Finalidade | Observações |
+|--------|-------------|-------------|
+| **Ramal 5433** | Atendimento emergencial e suporte de primeiro nível | Uso restrito a casos urgentes |
+| **E-mail: suporte@hortolandia.sp.gov.br** | Registro de incidentes e solicitações gerais | Requer identificação do solicitante |
+| **Sistema DOCS** | Tramitação formal de documentos e comunicações oficiais | Preferencial para requisições de média e alta complexidade |
 
 ---
 
@@ -107,22 +119,11 @@ Cada serviço é descrito com base em cinco dimensões:
 
 | Categoria | Serviço | Descrição resumida | SLA | Canal |
 |------------|----------|--------------------|-----|--------|
-| **Suporte Técnico** | Atendimento ao Usuário | Suporte remoto ou presencial para equipamentos, rede e sistemas. | 1º nível: até 8h úteis | Ramal 5433 / suporte@hortolandia.sp.gov.br|
-| **Infraestrutura** | Manutenção de Rede e Servidores | Administração de servidores, switches, roteadores e links de internet. | até 16h úteis | suporte@hortolandia.sp.gov.br/ DOCS |
-| **Sistemas Corporativos** | Gestão de Sistemas Municipais | Suporte e integração de sistemas legados e novos módulos. | até 24h úteis | suporte@hortolandia.sp.gov.br/ DOCS |
+| **Suporte Técnico** | Atendimento ao Usuário | Suporte remoto ou presencial para equipamentos, rede e sistemas. | 1º nível: até 8h úteis | Ramal 5433 / suporte@hortolandia.sp.gov.br |
+| **Infraestrutura** | Manutenção de Rede e Servidores | Administração de servidores, switches, roteadores e links de internet. | até 16h úteis | suporte@hortolandia.sp.gov.br / Sistema DOCS |
+| **Sistemas Corporativos** | Gestão de Sistemas Municipais | Suporte e integração de sistemas legados e novos módulos. | até 24h úteis | suporte@hortolandia.sp.gov.br / Sistema DOCS |
 | **Segurança e Backup** | Monitoramento e Proteção de Dados | Políticas de antivírus, firewall e cópias de segurança. | contínuo | via equipe de Infra |
 | **Governança e Inovação** | Projetos de Transformação Digital | Ações de integração, interoperabilidade e inovação tecnológica. | conforme projeto | via DITI / Secretaria solicitante |
-
----
-
-### 🧩 Serviços Complementares
-
-| Categoria | Serviço | Descrição resumida |
-|------------|----------|--------------------|
-| **E-mail e Acesso** | Criação, exclusão e redefinição de contas institucionais. |
-| **Equipamentos** | Instalação e substituição de desktops, notebooks e impressoras. |
-| **Conectividade** | Ampliação e manutenção de pontos de rede e Wi-Fi. |
-| **Capacitação** | Treinamentos curtos sobre uso seguro e eficiente dos sistemas. |
 
 ---
 
@@ -134,8 +135,6 @@ Todas as atualizações deverão ser registradas neste repositório, em nova ver
 ---
 
 > 📘 *O Catálogo é um instrumento vivo de gestão, que permite ao DITI evoluir de uma função reativa (suporte) para uma função estratégica (governança e inovação tecnológica).*
-
----
 
 ## 4. Comunicação e Engajamento Institucional
 
