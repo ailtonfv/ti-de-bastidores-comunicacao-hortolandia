@@ -10,7 +10,7 @@
 
 ## 📘 Sumário
 
-1. [Apresentação](#1-apresentação)  
+1. [Introdução](#1-introdução)  
 2. [Identidade Institucional](#2-identidade-institucional)  
 3. [Catálogo Municipal de Serviços de TI](#3-catálogo-municipal-de-serviços-de-ti)  
 4. [Comunicação e Engajamento Institucional](#4-comunicação-e-engajamento-institucional)  
