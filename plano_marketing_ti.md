@@ -390,7 +390,10 @@ O presente plano adota as seguintes siglas e termos técnicos de uso recorrente 
 | **Infra** | Infraestrutura de TI | Conjunto de redes, servidores, equipamentos e sistemas. |
 | **Backup** | Cópia de Segurança | Procedimento de salvaguarda de dados críticos. |
 | **Governança de TI** | — | Conjunto de práticas que garantem o alinhamento entre tecnologia e objetivos institucionais. |
-| **Transformação Digital** | — | Processo de modernização e integração tecnológica dos serviços públicos. |
+| **ITIL** | Information Technology Infrastructure Library | Conjunto de boas práticas voltadas à gestão de serviços de TI, adotadas internacionalmente como referência. |
+| **PDCA** | Plan, Do, Check, Act (Planejar, Executar, Verificar, Agir) | Método de melhoria contínua aplicado à gestão pública e à governança digital. |
+| **DOCS** | Sistema Municipal de Tramitação Interna | Plataforma eletrônica que formaliza e registra comunicações oficiais e solicitações entre secretarias municipais. |
+| **Transformação Digital** | — | Processo de modernização, integração e automação tecnológica dos serviços públicos municipais. |
 
 📘 *Este dicionário deverá ser atualizado periodicamente, com novas siglas e conceitos adotados nos sistemas e documentos da DITI.*
 
