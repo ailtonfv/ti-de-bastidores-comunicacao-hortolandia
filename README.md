@@ -39,8 +39,6 @@ ti-de-bastidores-comunicacao-hortolandia/
 │ └── 2025/
 └── README.md
 
-yaml
-Copiar código
 
 ---
 
@@ -68,7 +66,8 @@ Os memorandos seguem a convenção:
 
 **Metadados obrigatórios (em formato YAML no topo do arquivo):**
 
-```yaml
+```
+
 id: MI-2025-001
 assunto: Política de Uso da Rede
 área: DITI
