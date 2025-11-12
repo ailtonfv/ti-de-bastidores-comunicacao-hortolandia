@@ -164,7 +164,7 @@ A DITI adota um ciclo contínuo de comunicação interna e institucional, organi
 
 | Frequência | Ferramenta / Canal | Conteúdo | Responsável |
 |-------------|--------------------|-----------|--------------|
-| **Semanal** | Reunião técnica de equipe (presencial ou remota) | Revisão de incidentes, pendências e demandas novas. | Coordenação da DITI |
+| **Semanal** | Reunião técnica de equipe (presencial ou remota) | Revisão de incidentes, pendências e demandas novas. | Coordenador da comunicação no DITI |
 | **Quinzenal** | Publicação digital (GitHub / mural interno) | “O que a TI fez por você esta semana” — breve boletim com resultados e entregas. | DITI |
 | **Bimestral** | Apresentação institucional à SEPLAN | Indicadores de desempenho, avanços e próximos projetos. | Diretor da DITI |
 
