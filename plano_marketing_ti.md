@@ -16,7 +16,7 @@
 4. [Comunicação e Engajamento Institucional](#4-comunicação-e-engajamento-institucional)  
 5. [Acordos de Nível de Serviço (SLA)](#5-acordos-de-nível-de-serviço-sla)  
 6. [Governança e Ciclo de Melhoria Contínua](#6-governança-e-ciclo-de-melhoria-contínua)  
-7. [Referências e Documentos Relacionados](#7-referências-e-documentos-relacionados)
+7. [Dicionários, Referências e Documentos Relacionados](#7-referências-e-documentos-relacionados)
 
 ---
 
