@@ -216,7 +216,7 @@ O futuro **Guia de Identidade Visual de TI**, vinculado a este plano, reunirá u
 #### Orientações Gerais de Linguagem
 
 - Priorizar **clareza e impessoalidade**.  
-- Evitar siglas técnicas sem explicação.  
+- Explicar siglas técnicas utilizadas.  
 - Manter uniformidade de termos: “usuário”, “solicitação”, “serviço de TI”, “chamado técnico”.  
 - Toda publicação deve indicar **autor, data e fonte** (repositório ou documento de origem).  
 
@@ -255,8 +255,31 @@ Entre as iniciativas sugeridas:
 
 ---
 
-## 7. Referências e Documentos Relacionados
+## 7. Dicionário, Referências e Documentos Relacionados
 
+### 📚 Dicionário de Siglas e Termos Técnicos (versão inicial)
+
+O presente plano adota as seguintes siglas e termos técnicos de uso recorrente na área de Tecnologia da Informação da Prefeitura de Hortolândia:
+
+| Sigla / Termo | Significado | Descrição Simplificada |
+|----------------|--------------|------------------------|
+| **DITI** | Diretoria de Tecnologia da Informação | Unidade responsável pela infraestrutura e suporte tecnológico municipal. |
+| **DADOS** | Departamento de Dados e Estatística | Órgão de planejamento e governança de dados municipais. |
+| **SEPLAN** | Secretaria de Planejamento e Gestão Estratégica | Secretaria responsável pela integração entre as áreas técnicas e políticas públicas. |
+| **PDTI** | Plano Diretor de Tecnologia da Informação | Documento estratégico que orienta o desenvolvimento tecnológico da Prefeitura. |
+| **SLA** | Service Level Agreement | Acordo de Nível de Serviço: define prazos e padrões de atendimento. |
+| **DOCS** | Sistema de Tramitação Interna | Sistema municipal que formaliza e registra comunicações oficiais entre departamentos. |
+| **LGPD** | Lei Geral de Proteção de Dados | Legislação brasileira sobre privacidade e tratamento de dados pessoais. |
+| **HelpDesk** | Central de Atendimento Técnico | Canal de suporte para usuários internos da Prefeitura. |
+| **Infra** | Infraestrutura de TI | Conjunto de redes, servidores, equipamentos e sistemas. |
+| **Backup** | Cópia de Segurança | Procedimento de salvaguarda de dados críticos. |
+| **Governança de TI** | — | Conjunto de práticas que garantem o alinhamento entre tecnologia e objetivos institucionais. |
+| **Transformação Digital** | — | Processo de modernização e integração tecnológica dos serviços públicos. |
+
+📘 *Este dicionário deverá ser atualizado periodicamente, com novas siglas e conceitos adotados nos sistemas e documentos da DITI.*
+
+
+**Referências e Documentos Relacionados**
 - MI-2025-004 — Solicitação de Inventário de Ativos  
 - MI-2025-006 — Encaminhamento Interno da DITI  
 - Guia Simplificado de Conferência  
