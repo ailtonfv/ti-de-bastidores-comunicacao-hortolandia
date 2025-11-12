@@ -31,13 +31,13 @@ Não serão aceitas comunicações por e-mail, garantindo assim rastreabilidade 
 
 ---
 
-### 📎 Encerramento da participação do DADOS
+### 📎 Encerramento da participação do Departamento de Informaação e Análise Estatítica
 
-Após a fase inicial de estruturação e validação, conduzida pelo **Departamento de Dados e Estatística (DADOS)**, a coordenação e a execução deste Plano de Marketing passam a ser de **responsabilidade integral do Departamento de Infraestrutura de TI (DITI)**.  
+Após a fase inicial de estruturação e validação, conduzida pelo **Departamento de Informação e Análise Estatítica**, a coordenação e a execução deste Plano de Marketing passam a ser de **responsabilidade integral do Departamento de Infraestrutura de TI (DITI)**.  
 
 Cabe ao DITI a manutenção, atualização e implantação contínua das ações previstas, bem como o monitoramento dos resultados e o registro das atualizações neste repositório.  
 
-O DADOS encerra, portanto, sua participação direta neste processo após a aprovação do plano, mantendo-se disponível para eventuais consultas técnicas ou recomendações metodológicas que venham a ser solicitadas pelo DITI.
+O  DIAE encerra, portanto, sua participação direta neste processo após a aprovação do plano, mantendo-se disponível para eventuais consultas técnicas ou recomendações metodológicas que venham a ser solicitadas pelo DITI.
 
 ---
 
@@ -76,9 +76,64 @@ A marca DITI está associada a três pilares:
 
 ---
 
-## 3. Catálogo Municipal de Serviços de TI
+## 3. Catálogo Municipal de Serviços do Departamento de Infraestrutura da Tecnologia da Informação - DITI
 
-*(a preencher no Passo 3)*
+O **Catálogo Municipal de Serviços de TI** é o instrumento que define, de forma clara e padronizada, todos os serviços oferecidos pela Diretoria de Tecnologia da Informação (DITI) às secretarias e órgãos da Prefeitura de Hortolândia.
+
+Este catálogo tem como objetivos:
+
+- Garantir **transparência** e **previsibilidade** na oferta de serviços de TI;  
+- Facilitar o **acesso e a solicitação de suporte técnico**;  
+- Estabelecer **responsabilidades e níveis de atendimento (SLA)**;  
+- Promover a **padronização e a melhoria contínua** da infraestrutura tecnológica municipal.
+
+---
+
+### 🧭 Estrutura do Catálogo
+
+Cada serviço é descrito com base em cinco dimensões:
+
+| Campo | Descrição |
+|-------|------------|
+| **Serviço** | Nome padronizado do serviço oferecido pela DITI |
+| **Descrição Técnica** | Breve explicação do que é e como funciona |
+| **Unidade Responsável** | Setor da DITI encarregado pela execução |
+| **Nível de Suporte (SLA)** | Tempo médio de resposta e resolução |
+| **Canal de Solicitação** | Caminho para abertura de chamados ou requisições |
+
+---
+
+### 🖥️ Serviços Principais
+
+| Categoria | Serviço | Descrição resumida | SLA | Canal |
+|------------|----------|--------------------|-----|--------|
+| **Suporte Técnico** | Atendimento ao Usuário | Suporte remoto ou presencial para equipamentos, rede e sistemas. | 1º nível: até 8h úteis | via HelpDesk / GitHub |
+| **Infraestrutura** | Manutenção de Rede e Servidores | Administração de servidores, switches, roteadores e links de internet. | até 16h úteis | via HelpDesk / equipe técnica |
+| **Sistemas Corporativos** | Gestão de Sistemas Municipais | Suporte e integração de sistemas legados e novos módulos. | até 24h úteis | via equipe de Sistemas |
+| **Segurança e Backup** | Monitoramento e Proteção de Dados | Políticas de antivírus, firewall e cópias de segurança. | contínuo | via equipe de Infra |
+| **Governança e Inovação** | Projetos de Transformação Digital | Ações de integração, interoperabilidade e inovação tecnológica. | conforme projeto | via DITI / Secretaria solicitante |
+
+---
+
+### 🧩 Serviços Complementares
+
+| Categoria | Serviço | Descrição resumida |
+|------------|----------|--------------------|
+| **E-mail e Acesso** | Criação, exclusão e redefinição de contas institucionais. |
+| **Equipamentos** | Instalação e substituição de desktops, notebooks e impressoras. |
+| **Conectividade** | Ampliação e manutenção de pontos de rede e Wi-Fi. |
+| **Capacitação** | Treinamentos curtos sobre uso seguro e eficiente dos sistemas. |
+
+---
+
+### 📄 Revisão e Atualização
+
+O Catálogo será revisado **trimestralmente**, com base nos indicadores de demanda, desempenho e satisfação das secretarias atendidas.  
+Todas as atualizações deverão ser registradas neste repositório, em nova versão numerada e datada, preservando o histórico documental.
+
+---
+
+> 📘 *O Catálogo é um instrumento vivo de gestão, que permite ao DITI evoluir de uma função reativa (suporte) para uma função estratégica (governança e inovação tecnológica).*
 
 ---
 
