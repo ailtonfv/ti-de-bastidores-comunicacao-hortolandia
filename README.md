@@ -19,21 +19,25 @@ Seu objetivo é dar visibilidade às ações, projetos e instrumentos de governa
 
 A organização segue o padrão **Ano → Tipo → Documento**.
 
+## 📁 Estrutura de Diretórios
+
+A organização segue o padrão **Ano → Tipo → Documento**.
+
+```bash
 ti-de-bastidores-comunicacao-hortolandia/
 ├── calendário-de-publicações/
-│ └── 2025/
+│   └── 2025/
 ├── cartazes/
-│ └── 2025/
+│   └── 2025/
 ├── memorandos-internos/
-│ └── 2025/
-│ ├── backup/
-│ ├── rede/
-│ └── segurança/
+│   └── 2025/
+│       ├── backup/
+│       ├── rede/
+│       └── segurança/
 ├── notícias/
-│ └── 2025/
+│   └── 2025/
 └── slides/
-└── 2025/
-
+    └── 2025/
 
 ---
 
