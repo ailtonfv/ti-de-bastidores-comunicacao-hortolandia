@@ -122,7 +122,7 @@ A DITI adota três canais institucionais para receber solicitações, dúvidas e
 | **Suporte Técnico** | Atendimento ao Usuário | Suporte remoto ou presencial para equipamentos, rede e sistemas. | 1º nível: até 8h úteis | Ramal 5433 / suporte@hortolandia.sp.gov.br |
 | **Infraestrutura** | Manutenção de Rede e Servidores | Administração de servidores, switches, roteadores e links de internet. | até 16h úteis | suporte@hortolandia.sp.gov.br / Sistema DOCS |
 | **Sistemas Corporativos** | Gestão de Sistemas Municipais | Suporte e integração de sistemas legados e novos módulos. | até 24h úteis | suporte@hortolandia.sp.gov.br / Sistema DOCS |
-| **Segurança e Backup** | Monitoramento e Proteção de Dados | Políticas de antivírus, firewall e cópias de segurança. | contínuo | via equipe de Infra |
+| **Segurança e Backup** | Monitoramento e Proteção de Dados | Políticas de antivírus, firewall e cópias de segurança. | serviço contínuo | via equipe de Infra |
 | **Governança e Inovação** | Projetos de Transformação Digital | Ações de integração, interoperabilidade e inovação tecnológica. | conforme projeto | via DITI / Secretaria solicitante |
 
 ---
