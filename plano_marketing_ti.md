@@ -109,7 +109,7 @@ A DITI adota três canais institucionais para receber solicitações, dúvidas e
 
 | Canal | Finalidade | Observações |
 |--------|-------------|-------------|
-| **Ramal 5433** | Atendimento emergencial e suporte de primeiro nível | Uso restrito a casos urgentes |
+| **Ramal 5433** | Atendimento emergencial e suporte de primeiro nível | Uso restrito a eventos urgentes |
 | **E-mail: suporte@hortolandia.sp.gov.br** | Registro de incidentes e solicitações gerais | Requer identificação do solicitante |
 | **Sistema DOCS** | Tramitação formal de documentos e comunicações oficiais | Preferencial para requisições de média e alta complexidade |
 
