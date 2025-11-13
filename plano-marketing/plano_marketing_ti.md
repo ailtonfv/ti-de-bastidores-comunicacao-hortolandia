@@ -67,8 +67,6 @@ O  DIAE encerra, portanto, sua participação direta neste processo após a apro
 
 ## 2. Identidade Institucional
 
-## 2. Identidade Institucional
-
 A **Diretoria de Tecnologia da Informação (DITI)** é o órgão responsável por planejar, executar e sustentar a infraestrutura tecnológica da Prefeitura de Hortolândia, assegurando a continuidade dos serviços digitais e o suporte às políticas públicas municipais.
 
 Sua missão é prover soluções tecnológicas seguras, eficientes e integradas, que ampliem a capacidade operacional do governo municipal e promovam a transformação digital do setor público.
