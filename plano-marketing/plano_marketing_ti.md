@@ -29,6 +29,30 @@ Ele integra o conjunto de instrumentos de governança digital propostos pelo Dep
 O plano é dinâmico e colaborativo. Sugestões e comentários devem ser realizados **exclusivamente via GitHub (issues)**, dentro do prazo de **10 dias úteis** a partir da data de publicação.  
 Não serão aceitas comunicações por e-mail, garantindo assim rastreabilidade e consistência documental.
 
+O plano é sonoro e colaborativo. Sugestões e comentários devem ser realizados exclusivamente...
+
+### 🧭 Visão Estratégica e Direcionadores Institucionais
+
+A consolidação deste plano representa um passo estruturante para o fortalecimento da governança de TIC na Prefeitura de Hortolândia. A DITI assume, a partir deste documento, uma postura mais estratégica e alinhada às melhores práticas do setor público, atuando como **vetor de integração**, **agente de previsibilidade** e **garantia institucional de continuidade tecnológica**.
+
+Ao formalizar seus serviços, responsabilidades e fluxos, o departamento estabelece bases sólidas para:
+
+- **elevar a maturidade organizacional em tecnologia**,
+- reduzir assimetrias de informação entre as secretarias,
+- aprimorar acordos de níveis de serviço e expectativas de atendimento,
+- consolidar um modelo de comunicação padronizado e rastreável,
+- e sustentar futuras decisões de planejamento e investimentos em infraestrutura.
+
+Esta visão não se limita ao presente. O plano antecipa tendências e necessidades estruturais que impactarão diretamente a administração municipal nos próximos anos, incluindo:
+
+- maior dependência de serviços digitais,
+- ampliação do volume e sensibilidade dos dados sob gestão pública,
+- necessidade de fortalecimento da segurança cibernética,
+- alinhamento às exigências legais da LGPD,
+- e preparação institucional para modelos híbridos de infraestrutura (on-premise + nuvem) com visão de soberania tecnológica.
+
+Ao se posicionar como órgão provedor de serviços essenciais, a DITI reafirma seu compromisso com a continuidade operacional, a transparência e a excelência na entrega. O presente documento, portanto, não é apenas um catálogo técnico: é uma **declaração de princípios**
+
 ---
 
 ### 📎 Encerramento da participação do Departamento de Informaação e Análise Estatítica
@@ -43,11 +67,35 @@ O  DIAE encerra, portanto, sua participação direta neste processo após a apro
 
 ## 2. Identidade Institucional
 
+## 2. Identidade Institucional
+
 A **Diretoria de Tecnologia da Informação (DITI)** é o órgão responsável por planejar, executar e sustentar a infraestrutura tecnológica da Prefeitura de Hortolândia, assegurando a continuidade dos serviços digitais e o suporte às políticas públicas municipais.
 
-Sua missão é prover soluções tecnológicas seguras, eficientes e integradas, que ampliem a capacidade operacional do governo municipal e promovam a transformação digital do setor público.  
+Sua missão é prover soluções tecnológicas seguras, eficientes e integradas, que ampliem a capacidade operacional do governo municipal e promovam a transformação digital do setor público.
 
 A DITI atua como **elo técnico entre as secretarias**, viabilizando sistemas corporativos, suporte técnico, redes, armazenamento e gestão de acessos. É também responsável por garantir a **resiliência cibernética**, o **cumprimento das normas de segurança da informação** e a **adoção de padrões abertos e interoperáveis**.
+
+### 🔍 Escopo Institucional — Princípio de Pareto (80/20)
+
+A DITI concentra **80% de seus esforços** na sustentação da infraestrutura crítica de TI e na garantia de disponibilidade dos serviços municipais. Os demais **20%** envolvem ações complementares de orientação técnica, documentação, melhoria contínua e suporte especializado.
+
+Para evitar sobreposições e assegurar clareza institucional, seguem abaixo os **limites formais de atuação**:
+
+> ⚠️ **Delimitação de Escopo (Caixa de Destaque)**  
+>  
+> A DITI **não é responsável por**:  
+> - desenvolvimento, versionamento ou manutenção de **softwares próprios** das secretarias;  
+> - suporte técnico funcional de sistemas fornecidos por **empresas terceirizadas**;  
+> - definição de requisitos de negócio para sistemas departamentais;  
+> - gestão de contratos de software ou atendimento a solicitações ligadas à operação específica de cada secretaria.  
+>  
+> A DITI atua **exclusivamente** na:  
+> - sustentação da infraestrutura de TI (rede, telefonia, servidores, data center, nuvem);  
+> - segurança da informação e governança técnica;  
+> - padronização, interoperabilidade e boas práticas;  
+> - gestão corporativa dos serviços essenciais de TI.
+
+Este modelo assegura **respeito às competências das demais áreas**, evita interferências indevidas e preserva a governança técnica da Prefeitura, ao mesmo tempo garantindo que cada secretaria mantenha autonomia sobre seus sistemas e processos finalísticos.
 
 ### 💡 Visão
 
@@ -75,17 +123,106 @@ A marca DITI está associada a três pilares:
 3. **Inovação com propósito público.**
 
 ---
-
 ## 3. Catálogo Municipal de Serviços de TI
 
-O **Catálogo Municipal de Serviços de TI** é o instrumento que define, de forma clara e padronizada, todos os serviços oferecidos pela Diretoria de Tecnologia da Informação (DITI) às secretarias e órgãos da Prefeitura de Hortolândia.
+O Catálogo Municipal de Serviços de TI consolida, em linguagem clara e acessível, os serviços técnicos prestados pela DITI às demais unidades da Prefeitura de Hortolândia. Seu objetivo é:
 
-Este catálogo tem como objetivos:
+- estabelecer **expectativas realistas** sobre o que a DITI entrega;
+- organizar a **responsabilidade operacional** de cada serviço;
+- orientar as secretarias quanto aos **fluxos de solicitação**;
+- reforçar a **transparência** da atuação institucional.
 
-- Garantir **transparência e previsibilidade** na oferta de serviços de TI;  
-- Facilitar o **acesso e a solicitação de suporte técnico**;  
-- Estabelecer **responsabilidades e níveis de atendimento (SLA)**;  
-- Promover a **padronização e a melhoria contínua** da infraestrutura tecnológica municipal.
+O catálogo é estruturado em quatro macrocategorias, alinhadas às práticas de gestão de serviços (ITSM/ITIL) e adaptadas à realidade municipal:
+
+1. **Suporte ao Usuário e Atendimento Técnico**
+2. **Infraestrutura e Operações de Rede**
+3. **Segurança da Informação**
+4. **Data Center, Servidores e Acesso Corporativo**
+
+A seguir, apresentam-se os serviços com base na estrutura da DITI.
+
+---
+
+### 🔧 1. Suporte ao Usuário e Atendimento Técnico
+
+#### **1.1 Suporte Técnico Interno (Nível 2)**
+Atendimento especializado a chamados cujo diagnóstico exige intervenção técnica, configurações avançadas, análise de falhas ou atuação direta em equipamentos, sistemas de rede ou telefonia. Inclui suporte aos técnicos de primeiro nível sem contato direto com o usuário final.
+
+#### **1.2 Suporte Técnico a Prestadores de Serviço**
+Verificação de conectividade, liberação de pontos, validações técnicas e apoio operacional a empresas contratadas que utilizam a infraestrutura de TI da Prefeitura.  
+> **Importante:** a DITI não realiza manutenção ou configuração de sistemas próprios dos prestadores.
+
+#### **1.3 Atendimento Técnico Presencial**
+Visitas técnicas para manutenção corretiva ou preventiva, análises de viabilidade, testes de conectividade, configuração de telefonia e rede estruturada (dados/VoIP), parametrização de equipamentos e orientações técnicas in loco.
+
+---
+
+### 🌐 2. Infraestrutura e Operações de Rede
+
+#### **2.1 Gerenciamento do Data Center (Redes)**
+Instalação, configuração e manutenção dos ativos de rede corporativa: switches, roteadores, patch panels, racks, cabeamento estruturado, testes de comunicação e organização física. Inclui manutenções corretivas e preventivas.
+
+#### **2.2 Monitoramento Contínuo da Rede**
+Acompanhamento permanente do tráfego, latência, disponibilidade e estabilidade da infraestrutura de rede e telefonia. Detecção de falhas, quedas, lentidão, variações de desempenho e rompimentos de fibra, com acionamento de equipes especializadas quando necessário.
+
+#### **2.3 Gerenciamento de Segurança da Rede**
+Identificação e bloqueio de conexões não autorizadas, prevenção a riscos de rede, análise de eventos suspeitos, monitoramento de equipamentos indevidos e mitigação de conflitos de IP ou distribuição de endereços.
+
+#### **2.4 Wi-Fi Institucional**
+Instalação, configuração, substituição e manutenção de Access Points (APs), canais, potência, cabeamento necessário e integração com a rede municipal. Inclui suporte a conectividade e troca de equipamentos defeituosos.
+
+#### **2.5 Internet**
+Gestão da conectividade com a operadora contratada, monitoramento de desempenho, testes de latência e velocidade, acompanhamento de SLA, abertura de chamados junto às operadoras e ajustes de configuração dos roteadores.
+
+#### **2.6 Telefonia IP**
+Gerenciamento dos telefones IP, cabeamento, ramais, ativação e configuração inicial dos dispositivos, firmware, integrações VoIP e substituições de equipamentos.
+
+#### **2.7 Gerenciamento da Central VoIP**
+Administração da central VoIP: cadastro, alteração e exclusão de usuários, redefinição de perfis de acesso, filas, ramais, URA, DDR, regras de redirecionamento e relatórios de uso.
+
+#### **2.8 Gerenciamento da Rede Cabeada/WAN**
+Organização e manutenção de rede LAN e WAN, expansão ou remanejamento de pontos, segmentação de redes (VLANs), roteamento e integração com redes especializadas.
+
+#### **2.9 Fibra Óptica**
+Projetos de implantação, expansão, correção, checagens remotas, localização de rompimentos e coordenação de equipes técnicas para restabelecimento do enlace.
+
+#### **2.10 Base de Conhecimento Técnico (Redes)**
+Registro e atualização das informações técnicas de rede: pontos, racks, switches, rotas de fibra, VLANs, endereços IP e ramais.
+
+---
+
+### 🔐 3. Segurança da Informação
+
+#### **3.1 Gerenciamento de Acessos e Permissões**
+Administração de permissões, grupos, perfis e autenticações de acesso aos sistemas corporativos municipais, respeitando a LGPD e boas práticas de SI.
+
+#### **3.2 Fortalecimento da Segurança Cibernética**
+Monitoramento de riscos, orientações técnicas, diretrizes de proteção de dados, prevenção contra ataques, práticas básicas de segurança digital e integração com demais áreas responsáveis por sistemas.
+
+---
+
+### 🖥️ 4. Data Center, Servidores e Acesso Corporativo
+
+#### **4.1 Backup e Armazenamento Corporativo**
+Configuração, supervisão e execução de backups de servidores e ambientes corporativos, garantindo integridade dos dados e políticas de retenção.
+
+#### **4.2 Restauração de Backup**
+Reposição de arquivos, sistemas ou ambientes em caso de incidentes, falhas ou solicitações formais.
+
+#### **4.3 Virtualização**
+Gerenciamento e monitoramento do ambiente virtualizado da Prefeitura: criação, alocação de recursos, manutenção, snapshots e suporte técnico a VMs.
+
+#### **4.4 Atualização Tecnológica**
+Planejamento e implementação de melhorias no parque tecnológico: servidores, máquinas, storage, rede e infraestrutura física.
+
+---
+
+## ✔️ Observações Importantes
+
+Este catálogo está em conformidade com as atribuições institucionais da DITI e **não contempla serviços de desenvolvimento, manutenção ou suporte funcional de sistemas**, conforme delimitação formal de escopo.
+
+A atualização deste catálogo ocorrerá de forma contínua, de acordo com a maturidade da área, evolução da infraestrutura e alinhamento com o PDTI.
+
 
 ---
 
@@ -245,76 +382,248 @@ Entre as iniciativas sugeridas:
 
 ## 5. Acordos de Nível de Serviço (SLA)
 
-Os **Acordos de Nível de Serviço (SLA)** estabelecem os parâmetros de qualidade, tempo de resposta e responsabilidade nos atendimentos realizados pela Diretoria de Tecnologia da Informação (DITI).  
-Eles asseguram **transparência, previsibilidade e equidade** no suporte prestado a todas as secretarias municipais.
+Os **Acordos de Nível de Serviço (SLA)** estabelecem padrões claros de desempenho, responsabilidade e qualidade para todos os atendimentos realizados pela Diretoria de Tecnologia da Informação (DITI).  
+Eles asseguram **transparência, previsibilidade e equidade** no suporte prestado às secretarias municipais, fortalecendo a confiança institucional.
 
-Este item adota como referência conceitual o framework **ITIL (Information Technology Infrastructure Library)**, reconhecido mundialmente como padrão para gestão de serviços de TI no setor público e privado.  
-Sua aplicação fortalece a padronização, reduz falhas de comunicação e cria uma cultura de **melhoria contínua**.
+A estrutura deste item adota como base o framework **ITIL v4 (Information Technology Infrastructure Library)**, amplamente reconhecido como referencial de excelência para gestão de serviços de TI no setor público e privado.
 
----
-
-### 🧭 Princípios dos Acordos de Nível de Serviço
-
-1. **Clareza:** cada serviço deve ter uma meta de desempenho mensurável.  
-2. **Compromisso mútuo:** o SLA é um acordo entre a DITI e as secretarias usuárias.  
-3. **Transparência:** resultados e métricas devem ser publicados periodicamente.  
-4. **Evolução:** metas podem ser revistas conforme indicadores e maturidade operacional aumentem.  
-5. **Aderência ao ITIL:** adoção gradual dos processos de *Incident Management*, *Problem Management* e *Service Request Management*.
+Sua implementação gradual permitirá que a DITI avance de um modelo reativo para uma **gestão estratégica de serviços**, priorizando prevenção, padronização, evidências e governança.
 
 ---
 
-### ⚙️ Estrutura Operacional do SLA
+### 🧭 Princípios Orientadores do SLA
+
+1. **Clareza e mensurabilidade**  
+   Cada serviço deve possuir metas objetivas, indicadores verificáveis e critérios de aceitação.
+
+2. **Compromisso mútuo**  
+   O SLA é um acordo **entre a DITI e as secretarias**, estabelecendo responsabilidades recíprocas.
+
+3. **Transparência**  
+   Todos os resultados e indicadores serão disponibilizados em relatórios públicos no repositório oficial.
+
+4. **Evolução contínua**  
+   Os níveis de serviço serão revisados semestralmente, conforme maturidade, capacidade técnica e demandas das secretarias.
+
+5. **Conformidade com o ITIL v4**  
+   A adoção progressiva dos processos de *Incident Management*, *Problem Management* e *Service Request Management* reforça a padronização e reduz reincidências.
+
+---
+
+### ⚙️ Estrutura Operacional dos Níveis de Serviço
 
 | Nível de Serviço | Descrição | Prazo Máximo | Canal de Solicitação | Prioridade |
-|------------------|------------|---------------|----------------------|-------------|
-| **Nível 1 – Incidentes** | Problemas pontuais em equipamentos, rede ou sistemas. | até 8h úteis | Ramal 5433 / E-mail | Alta |
-| **Nível 2 – Solicitações de Serviço** | Instalação de software, criação de contas, permissões ou configurações. | até 16h úteis | Sistema DOCS / E-mail | Média |
-| **Nível 3 – Projetos e Melhorias** | Implementações, upgrades e integrações sistêmicas. | conforme cronograma do projeto | Sistema DOCS | Planejada |
+|------------------|------------|--------------|----------------------|------------|
+| **Nível 1 — Incidentes** | Falhas em equipamentos, rede, telefonia, e demais ocorrências que interrompem o serviço. | Até **8h úteis** | Ramal 5433 / E-mail | Alta |
+| **Nível 2 — Solicitações de Serviço** | Instalações, criação de contas, permissões, ajustes, configurações. | Até **16h úteis** | Sistema DOCS / E-mail | Média |
+| **Nível 3 — Projetos e Melhorias** | Demandas estruturantes, integrações, upgrades e expansões. | Conforme cronograma aprovado | Sistema DOCS | Planejada |
 
 ---
 
 ### 📊 Indicadores de Desempenho (KPIs)
 
 | Indicador | Fórmula | Meta Inicial | Frequência |
-|------------|----------|---------------|-------------|
-| **Cumprimento de SLA** | % de chamados resolvidos dentro do prazo | ≥ 90% | Mensal |
-| **Taxa de Reincidência de Incidentes** | Nº de incidentes repetidos / total de incidentes | ≤ 10% | Trimestral |
-| **Tempo Médio de Resolução (TMR)** | Tempo total de resolução / nº de chamados | ≤ 12h úteis | Mensal |
-| **Satisfação do Usuário Interno** | Avaliação pós-atendimento | ≥ 85% | Trimestral |
+|-----------|---------|----------------|-----------|
+| **Cumprimento de SLA** | % de chamados atendidos no prazo | ≥ **90%** | Mensal |
+| **Taxa de Reincidência de Incidentes** | Incidentes repetidos / total | ≤ **10%** | Trimestral |
+| **Tempo Médio de Resolução (TMR)** | Total de horas / nº de chamados | ≤ **12h úteis** | Mensal |
+| **Satisfação do Usuário Interno** | Nota média pós-atendimento | ≥ **85%** | Trimestral |
 
 ---
 
-### 🧩 Adoção Gradual do ITIL
+### 🧩 Adoção Gradual do ITIL v4
 
-A DITI iniciará a adoção prática das boas práticas do **ITIL v4**, priorizando três processos fundamentais:
+A DITI iniciará a implementação progressiva dos seguintes processos fundamentais:
 
-1. **Gestão de Incidentes:** garantir resposta rápida, registro e categorização de ocorrências.  
-2. **Gestão de Problemas:** identificar causas-raiz e prevenir reincidências.  
-3. **Gestão de Requisições de Serviço:** padronizar solicitações e fluxos de aprovação via DOCS.  
+1. **Gestão de Incidentes**  
+   Padronizar a abertura, categorização, resposta e fechamento dos incidentes.
 
-A médio prazo, a equipe técnica deverá participar de **capacitações introdutórias em ITIL Foundation**, com o objetivo de consolidar uma linguagem comum de gestão de serviços.
+2. **Gestão de Problemas**  
+   Identificar causas-raiz, reduzir reincidências e implementar ações preventivas.
 
-> 📘 *O ITIL não é um manual de regras, mas um modelo de maturidade.  
-> Sua adoção progressiva permitirá que a DITI avance do suporte corretivo para a gestão proativa e estratégica dos serviços públicos de TI.*
+3. **Gestão de Requisições de Serviço**  
+   Padronizar fluxos de aprovação e execução via DOCS.
+
+4. **Gestão de Configuração e Ativos (CMDB — visão inicial)**  
+   Criar inventário mínimo funcional de ativos críticos (rede, servidores, contas).
 
 ---
 
-### 🧠 Próximos Passos
+### 🎓 Capacitação obrigatória relacionada ao SLA
 
-- Formalizar o **Catálogo de Serviços** com prazos e responsáveis.  
-- Implementar a **planilha de indicadores SLA** vinculada a este repositório.  
-- Programar **treinamento introdutório em ITIL Foundation** para toda a equipe técnica.  
-- Revisar o SLA a cada semestre, integrando-o ao **PDTI** e aos **relatórios de governança digital**.
+Para garantir aderência e linguagem comum, cada integrante da DITI deverá concluir:
 
+- **ITIL 4 Foundation — Módulo Introdutório**,  
+- **Curso Básico de Indicadores e Métricas de TI**,  
+- **Treinamento interno anual sobre SLAs, KPIs e governança de serviços**.
+
+Após a formação, cada participante deve registrar aprendizados e atualizar os POPs correspondentes.
+
+---
+
+### 📘 Nota Estratégica
+
+> *A adoção dos SLAs transforma a DITI de um setor de suporte reativo em um provedor institucional de serviços críticos, que opera com evidências, previsibilidade e maturidade técnica.*  
 
 ---
 
 ## 6. Governança e Ciclo de Melhoria Contínua
 
-A **governança de TI** é o eixo estruturante da DITI.  
-Seu propósito é assegurar que as decisões sobre tecnologia, comunicação e suporte estejam alinhadas às prioridades institucionais da Prefeitura e às boas práticas de administração pública digital.
+### 🎓 6.1 Capacitação Técnica — Recomendações de Formação Prioritária
 
-A implantação deste Plano de Marketing Institucional está vinculada a um **ciclo de melhoria contínua**, que combina planejamento, execução, monitoramento e ajuste — garantindo que o documento evolua junto com as demandas da cidade e da gestão.
+Para elevar a maturidade institucional da DITI e sustentar a evolução tecnológica da Prefeitura, recomenda-se a adoção de um plano mínimo de capacitação anual, com foco em competências essenciais para infraestrutura, governança e segurança.
+
+As formações abaixo não são obrigatórias, mas constituem **recomendações estratégicas**:
+
+#### 📘 a) Governança de TI
+- **ITIL v4 Foundation** — boas práticas de gestão de serviços.
+- **COBIT 2019 Essentials** — governança corporativa de TI.
+- **Scrum Fundamentals** — organização de demandas e sprints tecnológicos.
+- **Gestão de Mudanças (Change Management)** — controle de alterações na infraestrutura.
+
+#### 🖧 b) Infraestrutura, Redes e Data Center
+- **Administração de Redes (Cisco/CompTIA Network+)**  
+- **Fundamentos de Cabeamento Estruturado e VLANs**  
+- **Gestão de Data Center (Uptime Institute – nivelamento)**  
+- **Introdução ao VMware/Proxmox/KVM** – ambientes virtualizados.
+
+#### 🔐 c) Segurança da Informação
+- **LGPD para TI e Encarregados Técnicos**  
+- **ISO 27001 – Fundamentos**  
+- **Hardening e Segurança de Servidores Linux/Windows**  
+- **Análise e Resposta a Incidentes** (Blue Team básico)  
+- **Segurança em Redes (Firewall, VPN, IDS/IPS)**  
+
+#### ☁️ d) Computação em Nuvem (Visão Estratégica)
+- **Fundamentos de Cloud (AWS/Azure/GCP)** – nível inicial.  
+- **Modelos Híbridos e Edge Computing** – visão aplicada ao setor público.  
+- **Infraestrutura como Código – Introdução (IaC)**  
+
+#### 📚 e) Desenvolvimento Profissional Contínuo
+- **Boas práticas de documentação e versionamento (Git/GitHub)**  
+- **Gestão de Projetos para TI (PMBOK Essentials)**  
+- **Comunicação técnica e redação para TI**
+
+Essas formações fornecerão à equipe:
+
+- maior autonomia técnica,  
+- aumento da eficiência operacional,  
+- redução de incidentes reincidentes,  
+- fortalecimento da segurança digital municipal,  
+- alinhamento aos padrões nacionais de governança,  
+- e melhor capacidade de interlocução com fornecedores e secretarias.
+
+---
+
+### 📊 6.2 Indicadores de Maturidade
+
+A maturidade institucional da DITI depende da evolução contínua de processos, capacidades técnicas e nível de governança. Para isso, propõem-se os seguintes indicadores estruturantes, organizados em quatro dimensões:
+
+---
+
+### 🧩 **Dimensão 1 — Governança e Processos**
+| Indicador | Descrição | Meta Anual | Método de Avaliação |
+|-----------|-----------|------------|----------------------|
+| **1.1 – Formalização de Políticas de TI** | Percentual de políticas implementadas (segurança, backup, catálogos, governança, acessos). | ≥ 80% | Verificação documental trimestral |
+| **1.2 – Reuniões de Governança Realizadas** | Frequência efetiva das reuniões previstas (Comitê, análises críticas etc.). | ≥ 90% das previstas | Ata disponível no repositório |
+| **1.3 – Aderência a SLAs** | Percentual de serviços atendidos dentro do prazo. | ≥ 85% | Relatórios mensais de atendimento |
+| **1.4 – Gestão de Mudanças** | Registro e controle de mudanças críticas em infraestrutura. | 100% documentadas | GitHub / formulários internos |
+
+---
+
+### 🧑‍💻 **Dimensão 2 — Capacitação e Equipe**
+| Indicador | Descrição | Meta Anual | Método |
+|-----------|-----------|------------|--------|
+| **2.1 – Horas de Capacitação por Servidor** | Média anual de capacitação técnica por membro da equipe. | ≥ 40h/ano | Certificados e registros internos |
+| **2.2 – Treinamentos de Governança (ITIL/COBIT)** | Proporção da equipe com formação mínima em governança. | ≥ 50% | Listagem validada pela DITI |
+| **2.3 – Competências Essenciais Atendidas** | Quantidade de trilhas concluídas da lista recomendada. | ≥ 6 trilhas/ano (equipe total) | Plano de capacitação |
+
+---
+
+### 🛡️ **Dimensão 3 — Segurança da Informação**
+| Indicador | Descrição | Meta | Método |
+|-----------|-----------|------|--------|
+| **3.1 – Incidentes de Segurança Registrados** | Quantidade total e gravidade dos incidentes. | Redução anual ≥ 20% | Registro de incidentes |
+| **3.2 – Conformidade com LGPD** | Percentual de ativos e processos mapeados. | ≥ 70% | Auditoria conjunta com DPO |
+| **3.3 – Aderência a Backups** | Execução e verificação dos planos de backup. | 100% | Logs automatizados e auditorias |
+
+---
+
+### 🖧 **Dimensão 4 — Infraestrutura e Continuidade Operacional**
+| Indicador | Descrição | Meta | Método |
+|-----------|-----------|------|--------|
+| **4.1 – Disponibilidade dos Serviços Críticos** | Uptime dos sistemas essenciais (rede, VoIP, internet, datacenter). | ≥ 97% | Monitoramento |
+| **4.2 – Renovação Tecnológica** | Percentual de ativos renovados ou atualizados. | ≥ 15%/ano | Inventário |
+| **4.3 – Tempo de Resposta a Ocorrências** | Tempo médio de atendimento de incidentes. | ≤ 8h | Painel de chamados |
+| **4.4 – Documentação de Infraestrutura** | Atualização das bases técnicas (VLANs, pontos de rede, racks etc.). | ≥ 80% atualizado | Repositório oficial |
+
+---
+
+### 📌 **Mecanismo de Consolidação Anual**
+Ao final de cada exercício, a DITI deve produzir um **Relatório de Maturidade** contendo:
+
+- evolução dos indicadores,
+- pendências críticas,
+- pontos de atenção para a próxima revisão do plano,
+- ações recomendadas para o exercício seguinte.
+
+Esse relatório será anexado ao repositório GitHub como versão anual do documento.
+
+---
+
+### ✔️ **Benefício Estratégico**
+A adoção desses indicadores transforma o documento de marketing institucional em um **instrumento de governança**, permitindo:
+
+- decisões baseadas em evidências,  
+- rastreabilidade das melhorias,  
+- priorização clara de investimentos,  
+- transparência para direção e secretarias.
+---
+### 📚 6.3 Governança de Capacitação e Formação Contínua da Equipe DITI
+
+A melhoria contínua da DITI exige um modelo estruturado de formação profissional, que garanta atualização técnica, alinhamento às melhores práticas e desenvolvimento de competências críticas para a administração pública digital.
+
+A política de capacitação da DITI seguirá os seguintes princípios:
+
+1. **Alinhamento às necessidades estratégicas**  
+   Os cursos e formações devem estar diretamente conectados às prioridades institucionais, considerando:
+   - segurança da informação,  
+   - infraestrutura crítica,  
+   - governança de TI,  
+   - interoperabilidade,  
+   - atendimento ao usuário e  
+   - resiliência cibernética.
+
+2. **Capacitação contínua e progressiva**  
+   Cada integrante da equipe deverá possuir um plano anual de capacitação individual (PDI-TI), contemplando trilhas técnicas mínimas.
+
+3. **Foco em certificações reconhecidas internacionalmente**  
+   A DITI priorizará formações com alto padrão de qualidade, tais como:
+   - **ITIL 4 Foundation** (governança e serviços de TI);
+   - **ISO/IEC 27001 – Fundamentos** (segurança da informação);
+   - **Curso de Redes Cisco – CCNA (módulos essenciais)**;
+   - **Linux LPI Essentials** (competências base para administração de servidores);
+   - **Governança de Dados – DAMA-DMBOK Fundamentos**;
+   - **Gestão de Projetos – PMBOK / CAPM**.
+
+4. **Obrigatoriedade de compartilhamento do conhecimento**  
+   Após cada formação, o participante deverá:
+   - registrar aprendizados no **repositório interno**,  
+   - apresentar resumo executivo na **Reunião de Análise Crítica**,  
+   - atualizar POPs e manuais quando aplicável.
+
+5. **Registro e controle**  
+   A SEPLAN e a DITI manterão um painel de acompanhamento com:
+   - cursos realizados,  
+   - certificações,  
+   - custos,  
+   - impacto operacional,  
+   - lacunas de competência a serem superadas.
+
+---
+
+### 🎯 Objetivo Geral
+Garantir que a DITI opere como uma equipe de alta performance, tecnicamente atualizada e preparada para sustentar o crescimento digital da Prefeitura.
 
 ---
 
@@ -371,35 +680,102 @@ A evolução da DITI será acompanhada por meio de indicadores de maturidade ins
 
 ---
 
-## 7. Dicionário, Referências e Documentos Relacionados
+## 7. Dicionário de siglas e  Referências Bibliográficas
 
-### 📚 Dicionário de Siglas e Termos Técnicos (versão inicial)
+                            |
+## 📘 Dicionário de Siglas e Termos Técnicos
 
 O presente plano adota as seguintes siglas e termos técnicos de uso recorrente na área de Tecnologia da Informação da Prefeitura de Hortolândia:
 
 | Sigla / Termo | Significado | Descrição Simplificada |
-|----------------|--------------|------------------------|
-| **DITI** | Diretoria de Tecnologia da Informação | Unidade responsável pela infraestrutura e suporte tecnológico municipal. |
-| **DADOS** | Departamento de Dados e Estatística | Órgão de planejamento e governança de dados municipais. |
-| **SEPLAN** | Secretaria de Planejamento e Gestão Estratégica | Secretaria responsável pela integração entre as áreas técnicas e políticas públicas. |
-| **PDTI** | Plano Diretor de Tecnologia da Informação | Documento estratégico que orienta o desenvolvimento tecnológico da Prefeitura. |
-| **SLA** | Service Level Agreement | Acordo de Nível de Serviço: define prazos e padrões de atendimento. |
-| **DOCS** | Sistema de Tramitação Interna | Sistema municipal que formaliza e registra comunicações oficiais entre departamentos. |
-| **LGPD** | Lei Geral de Proteção de Dados | Legislação brasileira sobre privacidade e tratamento de dados pessoais. |
-| **HelpDesk** | Central de Atendimento Técnico | Canal de suporte para usuários internos da Prefeitura. |
-| **Infra** | Infraestrutura de TI | Conjunto de redes, servidores, equipamentos e sistemas. |
-| **Backup** | Cópia de Segurança | Procedimento de salvaguarda de dados críticos. |
-| **Governança de TI** | — | Conjunto de práticas que garantem o alinhamento entre tecnologia e objetivos institucionais. |
-| **ITIL** | Information Technology Infrastructure Library | Conjunto de boas práticas voltadas à gestão de serviços de TI, adotadas internacionalmente como referência. |
-| **PDCA** | Plan, Do, Check, Act (Planejar, Executar, Verificar, Agir) | Método de melhoria contínua aplicado à gestão pública e à governança digital. |
-| **DOCS** | Sistema Municipal de Tramitação Interna | Plataforma eletrônica que formaliza e registra comunicações oficiais e solicitações entre secretarias municipais. |
-| **Transformação Digital** | — | Processo de modernização, integração e automação tecnológica dos serviços públicos municipais. |
+|---------------|-------------|-------------------------|
+| **DITI** | Diretoria de Tecnologia da Informação | Unidade responsável pela infraestrutura, continuidade operacional e segurança da informação. |
+| **DADOS** | Departamento de Dados e Estatística | Coordena governança de dados, arquitetura analítica e instrumentação decisória municipal. |
+| **SEPLAN** | Secretaria de Planejamento e Gestão Estratégica | Integra ações técnicas e políticas públicas estratégicas. |
+| **PDTI** | Plano Diretor de Tecnologia da Informação | Documento estratégico que organiza prioridades e investimentos em TI. |
+| **SLA** | Service Level Agreement | Acordo de Nível de Serviço que define prazos e padrões de atendimento. |
+| **ITIL v4** | Information Technology Infrastructure Library | Framework de boas práticas para gestão de serviços de TI. |
+| **LGPD** | Lei Geral de Proteção de Dados | Lei federal que regula o tratamento de dados pessoais no Brasil. |
+| **ISO 27001** | Norma Internacional de Segurança da Informação | Estabelece requisitos para Sistemas de Gestão de Segurança da Informação. |
+| **ISO 20000** | Norma Internacional de Gestão de Serviços de TI | Padrões para entrega de serviços eficientes e controlados. |
+| **NOC** | Network Operations Center | Sala de monitoramento das operações de rede e servidores. |
+| **SOC** | Security Operations Center | Estrutura responsável por vigilância e resposta a incidentes de segurança. |
+| **Backup 3-2-1** | Regra de continuidade | 3 cópias, 2 mídias diferentes, 1 off-site (externo). |
+| **VPN** | Virtual Private Network | Rede privada virtual utilizada para acessos remotos protegidos. |
+| **AD / LDAP** | Active Directory / Directory Protocol | Sistema de autenticação e gestão de identidades. |
+| **Firewall UTM** | Unified Threat Management | Firewall corporativo com múltiplas camadas de proteção. |
+| **PoC** | Proof of Concept | Prova de conceito técnico antes de adoções definitivas. |
+| **CMDB** | Configuration Management Database | Base que registra configurações e ativos de TI. |
+| **DNS** | Domain Name System | Sistema que traduz nomes para endereços IP. |
+| **DocOps** | Documentation Operations | Prática de documentação ágil e colaborativa em TI. |
 
-📘 *Este dicionário deverá ser atualizado periodicamente, com novas siglas e conceitos adotados nos sistemas e documentos da DITI.*
+
+---
+
+## 🗂️ 7.2 Documentos Estratégicos Relacionados
+
+A elaboração deste plano considerou documentos normativos e estratégicos que orientam a governança de TI e de dados no setor público:
+
+| Documento | Fonte | Finalidade |
+|----------|--------|------------|
+| **MI-2025-006 — Encaminhamento ao Diretor da DITI** | DADOS | Diretriz que fundamenta a integração entre comunicação digital e governança de TI. |
+| **PDTI Municipal (versão preliminar)** | DITI | Organiza prioridades, infraestrutura e portfólio de serviços de TI. |
+| **Política Municipal de Segurança da Informação** | DITI / SEPLAN | Define diretrizes de proteção, controles e responsabilidades. |
+| **Catálogo Municipal de Serviços de TI** | DITI | Relação oficial dos serviços oferecidos às secretarias. |
+| **Guia de Boas Práticas de Comunicação Interna** | SEPLAN | Parâmetros para padronização de comunicação institucional. |
+| **Normas Técnicas Internas de Redes e Infraestrutura** | DITI | Padrões de cabeamento, topologia, equipamentos e segurança. |
+| **Manual de Governança de Dados** | DADOS | Define papéis, integrações e requisitos de qualidade de dados. |
+
+---
+
+## 📑 7.3 Referências Bibliográficas e Normativas
 
 
-**Referências e Documentos Relacionados**
-- MI-2025-004 — Solicitação de Inventário de Ativos  
-- MI-2025-006 — Encaminhamento Interno da DITI  
-- Guia Simplificado de Conferência  
-- Repositório de Inventário: [github.com/ailtonfv/ti-gestao-de-ativos-hortolandia](https://github.com/ailtonfv/ti-gestao-de-ativos-hortolandia)
+A seguir, recomendações de leitura avançada para desenvolvimento técnico contínuo da equipe:
+
+### **Gestão de Serviços e Governança**
+- AXELOS. *ITIL 4 — Foundation*. TSO Publishers.
+- Van Haren. *ITIL 4 — High Velocity IT*.
+- Peter Weill & Jeanne Ross. *IT Governance*. MIT Press.
+
+### **Infraestrutura, Redes e Segurança**
+- Kurose & Ross. *Redes de Computadores e a Internet*. Pearson.
+- William Stallings. *Segurança de Sistemas de Computação*. Pearson.
+- RFC 2196. *Site Security Handbook*. IETF.
+
+### **Administração de Sistemas**
+- Evi Nemeth et al. *UNIX and Linux System Administration Handbook*. Addison-Wesley.
+- Microsoft Press. *Windows Server Inside Out*.
+
+### **Cibersegurança**
+- NIST 800-53 & 800-61. *Security Controls & Incident Response*.
+- Bruce Schneier. *Secrets and Lies: Digital Security in a Networked World*.
+
+### **Arquitetura e Infraestrutura Crítica**
+- Martin Kleppmann. *Designing Data-Intensive Applications*. O’Reilly.
+- Brendan Burns. *Designing Distributed Systems*. O’Reilly.
+
+### **Cultura e Trabalho em TI**
+- Gene Kim. *The Phoenix Project*.
+- Gene Kim. *The DevOps Handbook*.
+
+
+---
+
+## 📌 7.4 Observações Finais
+
+> 📘 *O dicionário e as referências deste documento serão atualizados de forma contínua, acompanhando a evolução da infraestrutura tecnológica, das políticas de TI municipais e das recomendações internacionais de governança pública.*
+
+> 📘 *Novos termos, normas, frameworks e documentos poderão ser incorporados a cada revisão anual do Plano de Marketing Institucional da DITI.*
+
+---
+
+## 🔗 Navegação Rápida (Links Internos)
+
+- [Introdução](#1-introdução)
+- [Identidade Institucional](#2-identidade-institucional)
+- [Catálogo Municipal de Serviços de TI](#3-catálogo-municipal-de-serviços-de-ti)
+- [Comunicação e Engajamento Institucional](#4-comunicação-e-engajamento-institucional)
+- [Acordos de Nível de Serviço (SLA)](#5-acordos-de-nível-de-serviço-sla)
+- [Governança e Ciclo de Melhoria Contínua](#6-governança-e-ciclo-de-melhoria-contínua)
+- [Dicionário e Referências](#7-dicionário-referências-e-documentos-relacionados)
