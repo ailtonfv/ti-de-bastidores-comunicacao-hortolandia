@@ -678,12 +678,12 @@ A evolução da DITI será acompanhada por meio de indicadores de maturidade ins
 
 ---
 
-## 7. Dicionário de siglas e  Referências Bibliográficas
+## 7. Dicionário de siglas, Documentos Estratégicos Relacionados, Referências Bibliográficas & Normativas e Observações Finais
 
                             |
-## 📘 Dicionário de Siglas e Termos Técnicos
+## 📘7.1 Dicionário de Siglas
 
-O presente plano adota as seguintes siglas e termos técnicos de uso recorrente na área de Tecnologia da Informação da Prefeitura de Hortolândia:
+O presente plano adota as seguintes siglas de uso recorrente na área de Tecnologia da Informação da Prefeitura de Hortolândia:
 
 | Sigla / Termo | Significado | Descrição Simplificada |
 |---------------|-------------|-------------------------|
@@ -726,7 +726,7 @@ A elaboração deste plano considerou documentos normativos e estratégicos que 
 
 ---
 
-## 📑 7.3 Referências Bibliográficas e Normativas
+## 📑 7.3 Referências Bibliográficas & Normativas
 
 
 A seguir, recomendações de leitura avançada para desenvolvimento técnico contínuo da equipe:
@@ -768,7 +768,7 @@ A seguir, recomendações de leitura avançada para desenvolvimento técnico con
 
 ---
 
-## 🔗 Navegação Rápida (Links Internos)
+## 🔗  8 Navegação Rápida (Links Internos)
 
 - [Introdução](#1-introdução)
 - [Identidade Institucional](#2-identidade-institucional)
