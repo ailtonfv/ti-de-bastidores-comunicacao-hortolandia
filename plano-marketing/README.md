@@ -55,7 +55,7 @@ O documento `plano_marketing_ti.md` está dividido em sete eixos principais:
 |--------|--------------|-----------|
 | Redação inicial | DIAE | ✅ Concluída |
 | Revisão técnica | DITI | ⚙️ Em andamento |
-| Aprovação final | Diretoria do DITI | ⏳ Pendente |
+| Entrada em ciruclação | Diretoria do DITI | ⏳ Pendente |
 | Atualizações futuras | DITI | ♻️ Contínuo |
 
 ---
