@@ -43,7 +43,7 @@ ti-de-bastidores-comunicacao-hortolandia/
 ---
 
 ## 🧭 Integração dos Diretórios
-
+```plaintext
 | Diretório | Função Principal | Observações |
 |------------|------------------|--------------|
 | **/plano-marketing/** | Contém o documento-mãe `plano_marketing_ti.md`, que consolida diretrizes, catálogos e SLAs. | É o núcleo estratégico do projeto e o principal documento institucional. |
