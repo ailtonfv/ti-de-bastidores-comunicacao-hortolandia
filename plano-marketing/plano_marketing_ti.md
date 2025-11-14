@@ -231,11 +231,11 @@ Cada serviço é descrito com base em cinco dimensões:
 
 | Campo | Descrição |
 |-------|------------|
-| **Serviço** | Nome padronizado do serviço oferecido pela DITI |
-| **Descrição Técnica** | Breve explicação do que é e como funciona |
-| **Unidade Responsável** | Setor da DITI encarregado pela execução |
+| **Serviço Oferecido - SO** | Nome padronizado do serviço oferecido pela DITI |
+| **Descrição Técnica - DT** | Breve explicação do que é e como funciona |
+| **Unidade Responsável - UR** | Setor da DITI encarregado pela execução |
 | **Nível de Suporte (SLA)** | Tempo médio de resposta e resolução |
-| **Canal de Solicitação** | Caminho oficial para abertura de chamados |
+| **Canal de Solicitação - CS** | Caminho oficial para abertura de chamados |
 
 ---
 
