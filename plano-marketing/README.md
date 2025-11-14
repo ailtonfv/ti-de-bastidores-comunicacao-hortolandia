@@ -20,7 +20,7 @@ Fortalecer a presença institucional do DITI, padronizar a técnica de comunica�
 plano-marketing/
 ├── plano_marketing_ti.md → Documento principal do Plano de Marketing Institucional
 └── README.md → Arquivo descritivo e orientador deste diretório
-
+````
 ---
 
 ## 📘 Conteúdo do Plano
