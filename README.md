@@ -46,13 +46,16 @@ ti-de-bastidores-comunicacao-hortolandia/
 
 
 🗂️ Integração dos Diretórios
-Diretório	Função Principal	Observações
-📁 /plano-marketing/	Documento-mãe plano_marketing_ti.md, contendo diretrizes, catálogos, KPIs e SLAs.	Núcleo estratégico e referência institucional.
-📨 /memorandos-internos/	Memorandos Internos (MIs) e instruções de TI.	Padrão obrigatório MI-AAAA-XXX com cabeçalho YAML.
-📊 /slides/	Apresentações institucionais e materiais visuais.	Base para relatórios bimestrais, sínteses e SEPLAN.
-📢 /cartazes/	Cartazes, campanhas e peças visuais.	Ligado à Identidade Visual e Engajamento Institucional.
-📰 /notícias/	Comunicados e notas internas.	Voltado à comunicação interna e transparência.
-🗓️ /calendário-de-publicações/	Agenda e planejamento de publicações.	Mantido pela comunicação da DITI.
+
+| Diretório | Função Principal | Observações |
+|-----------|------------------|-------------|
+| 📁 **/plano-marketing/** | Documento-mãe `plano_marketing_ti.md`, contendo diretrizes, catálogos, KPIs e SLAs. | Núcleo estratégico e referência institucional. |
+| 📨 **/memorandos-internos/** | Memorandos Internos (MIs) e instruções de TI. | Padrão obrigatório `MI-AAAA-XXX` com cabeçalho YAML. |
+| 📊 **/slides/** | Apresentações institucionais e materiais visuais. | Base para relatórios bimestrais, sínteses e SEPLAN. |
+| 📢 **/cartazes/** | Cartazes, campanhas e peças visuais. | Ligado à Identidade Visual e Engajamento Institucional. |
+| 📰 **/notícias/** | Comunicados e notas internas. | Voltado à comunicação interna e transparência. |
+| 🗓️ **/calendário-de-publicações/** | Agenda e planejamento de publicações. | Mantido pela comunicação da DITI. |
+
 
 
 📘 *Essa estrutura modular permite à DITI manter separadas as camadas de gestão, comunicação e documentação técnica, garantindo clareza, rastreabilidade e evolução contínua.*
