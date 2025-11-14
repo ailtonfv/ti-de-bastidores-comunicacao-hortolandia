@@ -44,7 +44,6 @@ ti-de-bastidores-comunicacao-hortolandia/
 
 ## 🧭 Integração dos Diretórios
 
-
 🗂️ Integração dos Diretórios
 
 | Diretório | Função Principal | Observações |
