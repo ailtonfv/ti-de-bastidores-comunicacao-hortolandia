@@ -45,14 +45,15 @@ ti-de-bastidores-comunicacao-hortolandia/
 ## 🧭 Integração dos Diretórios
 
 
-| Diretório | Função Principal | Observações |
-|------------|------------------|--------------|
-| **/plano-marketing/** | Contém o documento-mãe `plano_marketing_ti.md`, que consolida diretrizes, catálogos e SLAs. | É o núcleo estratégico do projeto e o principal documento institucional. |
-| **/memorandos-internos/** | Reúne comunicações formais (MIs) e instruções vinculadas à execução do plano. | Deve seguir o padrão `MI-AAAA-XXX` com cabeçalho YAML. |
-| **/slides/** | Abriga apresentações institucionais e materiais visuais de apoio. | Usado para relatórios bimestrais, sínteses executivas e apresentações à SEPLAN. |
-| **/cartazes/** | Contém campanhas visuais e comunicados públicos. | Ligado à Identidade Visual e Engajamento Institucional. |
-| **/notícias/** | Armazena comunicados e notas internas. | Voltado à comunicação entre equipes e à transparência de resultados. |
-| **/calendário-de-publicações/** | Agenda e planeja os marcos de comunicação e divulgação. | Mantido pela equipe de comunicação da DITI. |
+🗂️ Integração dos Diretórios
+Diretório	Função Principal	Observações
+📁 /plano-marketing/	Documento-mãe plano_marketing_ti.md, contendo diretrizes, catálogos, KPIs e SLAs.	Núcleo estratégico e referência institucional.
+📨 /memorandos-internos/	Memorandos Internos (MIs) e instruções de TI.	Padrão obrigatório MI-AAAA-XXX com cabeçalho YAML.
+📊 /slides/	Apresentações institucionais e materiais visuais.	Base para relatórios bimestrais, sínteses e SEPLAN.
+📢 /cartazes/	Cartazes, campanhas e peças visuais.	Ligado à Identidade Visual e Engajamento Institucional.
+📰 /notícias/	Comunicados e notas internas.	Voltado à comunicação interna e transparência.
+🗓️ /calendário-de-publicações/	Agenda e planejamento de publicações.	Mantido pela comunicação da DITI.
+
 
 📘 *Essa estrutura modular permite à DITI manter separadas as camadas de gestão, comunicação e documentação técnica, garantindo clareza, rastreabilidade e evolução contínua.*
 
