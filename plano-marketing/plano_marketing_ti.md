@@ -2,7 +2,7 @@
 
 **Versão:** 1.0  
 **Data:** Novembro de 2025  
-**Responsável pela coordenação inicial:** Departamento de Dados e Estatística (DADOS)  
+**Responsável pela coordenação inicial:** Departamento de Dados e Estatística (DIAE)  
 **Departamento executor:** Departamento de Infraestrutura de TI (DITI)  
 **Repositório oficial:** [github.com/ailtonfv/ti-de-bastidores-comunicacao-hortolandia](https://github.com/ailtonfv/ti-de-bastidores-comunicacao-hortolandia)
 
