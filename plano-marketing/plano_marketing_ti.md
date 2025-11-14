@@ -135,7 +135,7 @@ O catálogo é estruturado em quatro macrocategorias, alinhadas às práticas de
 
 1. **Suporte ao Usuário e Atendimento Técnico**
 2. **Infraestrutura e Operações de Rede**
-3. **Segurança da Informação**
+3. **Segurança da Informação - SI**
 4. **Data Center, Servidores e Acesso Corporativo**
 
 A seguir, apresentam-se os serviços com base na estrutura da DITI.
