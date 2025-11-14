@@ -39,7 +39,7 @@ ti-de-bastidores-comunicacao-hortolandia/
 │ └── 2025/
 └── README.md
 
-
+````
 ---
 
 ## 🧭 Integração dos Diretórios
